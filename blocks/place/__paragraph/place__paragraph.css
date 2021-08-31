@@ -1,6 +1,6 @@
 .place__paragraph {
   margin: 0;
-  margin-bottom: 24px;
+  margin-bottom: 0;
   color: #ffffff;
   font-family: "Inter", Arial, Helvetica, sans-serif;
   font-style: normal;
@@ -13,6 +13,7 @@
   .place__paragraph {
     font-size: 16px;
     line-height: 26px;
-    /* margin-top: 16px; */
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }
